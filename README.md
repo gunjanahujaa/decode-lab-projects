@@ -25,7 +25,7 @@ decode-lab-projects/
 │
 ├── Project-1-Ecommerce-Data-Analysis/
 │
-├── Project-2/
+├── Project-2-Credit-Card-Fraud-Detection/
 │
 ├── Project-3/
 │
