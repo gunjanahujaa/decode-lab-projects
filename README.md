@@ -39,7 +39,7 @@ decode-lab-projects/
 | Project | Status |
 |---------|--------|
 | Project 1 - E-Commerce Data Analysis | Completed |
-| Project 2 | Coming Soon |
+| Project 2 -Credit-Card-Fraud-Detection| Completed |
 | Project 3 | Coming Soon |
 | Project 4 | Coming Soon |
 
