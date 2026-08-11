@@ -120,4 +120,4 @@ Project-1-Ecommerce-Data-Analysis/
 
 **Gunjan Ahuja**
 
-Decode Lab Data Analytics Internship
+Decode Lab Data Science Intern

@@ -133,4 +133,4 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 **Gunjan Ahuja**
 
-Decode Lab Data Analytics Internship
+Decode Lab Data Science Intern
