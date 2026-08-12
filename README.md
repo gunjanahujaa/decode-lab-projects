@@ -1,6 +1,6 @@
 # Decode Lab Projects
 
-This repository contains the projects completed during my **Decode Lab Data Analytics Internship**.
+This repository contains the projects completed during my **Decode Lab Data Science Internship**.
 
 The objective of this internship is to strengthen practical data analytics skills through real-world datasets and hands-on projects involving data cleaning, feature engineering, exploratory data analysis, and data visualization using Python.
 
@@ -14,7 +14,7 @@ The objective of this internship is to strengthen practical data analytics skill
 - Matplotlib
 - Seaborn
 - SciPy
-- Jupyter Notebook
+- Google colab
 
 ---
 
@@ -27,7 +27,7 @@ decode-lab-projects/
 │
 ├── Project-2-Credit-Card-Fraud-Detection/
 │
-├── Project-3/
+├── Project-3-Customer-Segmentation/
 │
 └── Project-4/
 ```
@@ -40,7 +40,7 @@ decode-lab-projects/
 |---------|--------|
 | Project 1 - E-Commerce Data Analysis | Completed |
 | Project 2 -Credit-Card-Fraud-Detection| Completed |
-| Project 3 | Coming Soon |
+| Project 3 -Customer-Segmentation |Completed|
 | Project 4 | Coming Soon |
 
 ---
