@@ -41,8 +41,7 @@ decode-lab-projects/
 | Project 1 - E-Commerce Data Analysis | Completed |
 | Project 2 -Credit-Card-Fraud-Detection| Completed |
 | Project 3 -Customer-Segmentation |Completed|
-| Project 4 | Coming Soon |
+| Project 4 -IMDB-Sentiment-Analysis|Completed |
 
 ---
 
-More projects will be added as the internship progresses.
